@@ -1,0 +1,292 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.2.1"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 1518,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 422,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.442925572, -0.115093492, -0.442913771 ],
+			"max": [ 0.442874223, 0.115098275, 0.442883819 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 422,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 422,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 422,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 422,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 1368,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 7,
+			"count": 1288,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.454682678, -0.0536615402, -0.440804005 ],
+			"max": [ 0.451905578, 0.0329237469, 0.475223184 ]
+		},
+		{
+			"bufferView": 8,
+			"count": 1288,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 9,
+			"count": 1288,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 1288,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 1288,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "lifebuoymodel.bin",
+			"byteLength": 101532
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 3036,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5064,
+			"byteOffset": 3036,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 5064,
+			"byteOffset": 8100,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 6752,
+			"byteOffset": 13164,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3376,
+			"byteOffset": 19916,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 3376,
+			"byteOffset": 23292,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 2736,
+			"byteOffset": 26668,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15456,
+			"byteOffset": 29404,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 15456,
+			"byteOffset": 44860,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 20608,
+			"byteOffset": 60316,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10304,
+			"byteOffset": 80924,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10304,
+			"byteOffset": 91228,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "lifebuoyshader_MetallicRoughness.jpg"
+		},
+		{
+			"uri": "lifebuoy_Albedo.jpg"
+		},
+		{
+			"uri": "lifebuoy_Normal.jpg"
+		},
+		{
+			"uri": "rope_diffuse.png"
+		},
+		{
+			"uri": "rope_normal.jpg"
+		}
+	],
+	"materials": [
+		{
+			"name": "lifebuoyshader",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicRoughnessTexture":
+				{
+					"index": 1
+				}
+			},
+			"normalTexture":
+			{
+				"index": 2
+			}
+		},
+		{
+			"name": "rope",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 3
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.5
+			},
+			"normalTexture":
+			{
+				"index": 4
+			}
+		}
+	],
+	"meshes": [
+		{
+			"name": "lifebuoy",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 7,
+						"NORMAL": 8,
+						"TANGENT": 9,
+						"TEXCOORD_0": 10,
+						"TEXCOORD_1": 11
+					},
+					"indices": 6,
+					"material": 1
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "lifebuoy_Albedo",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "lifebuoyshader_MetallicRoughness",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "lifebuoy_Normal",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "rope_diffuse",
+			"sampler": 0,
+			"source": 3
+		},
+		{
+			"name": "rope_normal",
+			"sampler": 0,
+			"source": 4
+		}
+	]
+}

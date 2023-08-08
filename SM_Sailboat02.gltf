@@ -1,0 +1,653 @@
+{
+	"asset":
+	{
+		"version": "2.0",
+		"generator": "Unreal Engine 5.2.1"
+	},
+	"scene": 0,
+	"accessors": [
+		{
+			"bufferView": 0,
+			"count": 10563,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 1,
+			"count": 9946,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1.98864317, -2.18597126, -6.90592337 ],
+			"max": [ 2.31741309, 1.62490737, 7.62151718 ]
+		},
+		{
+			"bufferView": 2,
+			"count": 9946,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 3,
+			"count": 9946,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 4,
+			"count": 9946,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 5,
+			"count": 9946,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 6,
+			"count": 9213,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 7,
+			"count": 8625,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1.89730084, 0.076303184, -6.90604925 ],
+			"max": [ 2.2260704, 1.98694265, 6.88298512 ]
+		},
+		{
+			"bufferView": 8,
+			"count": 8625,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 9,
+			"count": 8625,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 10,
+			"count": 8625,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 11,
+			"count": 8625,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 12,
+			"count": 4554,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 13,
+			"count": 4002,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1.99143195, 0.789915979, -6.90444756 ],
+			"max": [ 2.31594777, 2.28776097, 7.81009007 ]
+		},
+		{
+			"bufferView": 14,
+			"count": 4002,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 15,
+			"count": 4002,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 16,
+			"count": 4002,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 17,
+			"count": 4002,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 18,
+			"count": 2373,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 19,
+			"count": 2047,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -1.74078751, 1.78579891, -6.5839386 ],
+			"max": [ 2.06576252, 20.7294769, 6.68164301 ]
+		},
+		{
+			"bufferView": 20,
+			"count": 2047,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 21,
+			"count": 2047,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 22,
+			"count": 2047,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 23,
+			"count": 2047,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 24,
+			"count": 0,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 25,
+			"count": 0,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 26,
+			"count": 0,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 27,
+			"count": 0,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 28,
+			"count": 0,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 29,
+			"count": 5184,
+			"type": "SCALAR",
+			"componentType": 5123
+		},
+		{
+			"bufferView": 30,
+			"count": 4394,
+			"type": "VEC3",
+			"componentType": 5126,
+			"min": [ -0.432217896, 2.50942278, -4.3574276 ],
+			"max": [ 0.196755037, 19.5544033, 6.49607849 ]
+		},
+		{
+			"bufferView": 31,
+			"count": 4394,
+			"type": "VEC3",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 32,
+			"count": 4394,
+			"type": "VEC4",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 33,
+			"count": 4394,
+			"type": "VEC2",
+			"componentType": 5126
+		},
+		{
+			"bufferView": 34,
+			"count": 4394,
+			"type": "VEC2",
+			"componentType": 5126
+		}
+	],
+	"buffers": [
+		{
+			"uri": "SM_Sailboat02.bin",
+			"byteLength": 1688564
+		}
+	],
+	"bufferViews": [
+		{
+			"buffer": 0,
+			"byteLength": 21126,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 119352,
+			"byteOffset": 21128,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 119352,
+			"byteOffset": 140480,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 159136,
+			"byteOffset": 259832,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 79568,
+			"byteOffset": 418968,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 79568,
+			"byteOffset": 498536,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 18426,
+			"byteOffset": 578104,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 103500,
+			"byteOffset": 596532,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 103500,
+			"byteOffset": 700032,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 138000,
+			"byteOffset": 803532,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 69000,
+			"byteOffset": 941532,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 69000,
+			"byteOffset": 1010532,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 9108,
+			"byteOffset": 1079532,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 48024,
+			"byteOffset": 1088640,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 48024,
+			"byteOffset": 1136664,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 64032,
+			"byteOffset": 1184688,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 32016,
+			"byteOffset": 1248720,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 32016,
+			"byteOffset": 1280736,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 4746,
+			"byteOffset": 1312752,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 24564,
+			"byteOffset": 1317500,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 24564,
+			"byteOffset": 1342064,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 32752,
+			"byteOffset": 1366628,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 16376,
+			"byteOffset": 1399380,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 16376,
+			"byteOffset": 1415756,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 1432132,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 1432132,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 1432132,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 1432132,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 0,
+			"byteOffset": 1432132,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 10368,
+			"byteOffset": 1432132,
+			"target": 34963
+		},
+		{
+			"buffer": 0,
+			"byteLength": 52728,
+			"byteOffset": 1442500,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 52728,
+			"byteOffset": 1495228,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 70304,
+			"byteOffset": 1547956,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 35152,
+			"byteOffset": 1618260,
+			"target": 34962
+		},
+		{
+			"buffer": 0,
+			"byteLength": 35152,
+			"byteOffset": 1653412,
+			"target": 34962
+		}
+	],
+	"images": [
+		{
+			"uri": "MI_Sailboat02_Bow_BaseColor.jpg"
+		},
+		{
+			"uri": "MI_Sailboat02_Deck_BaseColor.jpg"
+		},
+		{
+			"uri": "MI_Sailboat02_Accessories_BaseColor.jpg"
+		},
+		{
+			"uri": "MI_Sailboat02_Mast_BaseColor.jpg"
+		}
+	],
+	"materials": [
+		{
+			"name": "MI_Sailboat02_Bow",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 0
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.498039246
+			},
+			"alphaMode": "MASK",
+			"alphaCutoff": 0.333299994
+		},
+		{
+			"name": "MI_Sailboat02_Deck",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 1
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.498039246
+			},
+			"alphaMode": "MASK",
+			"alphaCutoff": 0.333299994
+		},
+		{
+			"name": "MI_Sailboat02_Accessories",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 2
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.498039246
+			},
+			"alphaMode": "MASK",
+			"alphaCutoff": 0.333299994
+		},
+		{
+			"name": "MI_Sailboat02_Mast",
+			"pbrMetallicRoughness":
+			{
+				"baseColorTexture":
+				{
+					"index": 3
+				},
+				"metallicFactor": 0,
+				"roughnessFactor": 0.498039246
+			},
+			"alphaMode": "MASK",
+			"alphaCutoff": 0.333299994
+		},
+		{
+			"name": "MI_Glass_SM_Sailboat02",
+			"pbrMetallicRoughness":
+			{
+				"baseColorFactor": [ 1, 0, 1, 1 ]
+			},
+			"alphaMode": "BLEND"
+		},
+		{
+			"name": "MI_White",
+			"pbrMetallicRoughness":
+			{
+				"metallicFactor": 0,
+				"roughnessFactor": 0.498039246
+			},
+			"alphaMode": "MASK",
+			"alphaCutoff": 0.333299994
+		}
+	],
+	"meshes": [
+		{
+			"name": "SM_Sailboat02",
+			"primitives": [
+				{
+					"attributes":
+					{
+						"POSITION": 1,
+						"NORMAL": 2,
+						"TANGENT": 3,
+						"TEXCOORD_0": 4,
+						"TEXCOORD_1": 5
+					},
+					"indices": 0,
+					"material": 0
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 7,
+						"NORMAL": 8,
+						"TANGENT": 9,
+						"TEXCOORD_0": 10,
+						"TEXCOORD_1": 11
+					},
+					"indices": 6,
+					"material": 1
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 13,
+						"NORMAL": 14,
+						"TANGENT": 15,
+						"TEXCOORD_0": 16,
+						"TEXCOORD_1": 17
+					},
+					"indices": 12,
+					"material": 2
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 19,
+						"NORMAL": 20,
+						"TANGENT": 21,
+						"TEXCOORD_0": 22,
+						"TEXCOORD_1": 23
+					},
+					"indices": 18,
+					"material": 3
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 24,
+						"NORMAL": 25,
+						"TANGENT": 26,
+						"TEXCOORD_0": 27,
+						"TEXCOORD_1": 28
+					},
+					"material": 4
+				},
+				{
+					"attributes":
+					{
+						"POSITION": 30,
+						"NORMAL": 31,
+						"TANGENT": 32,
+						"TEXCOORD_0": 33,
+						"TEXCOORD_1": 34
+					},
+					"indices": 29,
+					"material": 5
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"mesh": 0
+		}
+	],
+	"samplers": [
+		{
+			"minFilter": 9987,
+			"magFilter": 9729
+		}
+	],
+	"scenes": [
+		{
+			"nodes": [ 0 ]
+		}
+	],
+	"textures": [
+		{
+			"name": "MI_Sailboat02_Bow_BaseColor",
+			"sampler": 0,
+			"source": 0
+		},
+		{
+			"name": "MI_Sailboat02_Deck_BaseColor",
+			"sampler": 0,
+			"source": 1
+		},
+		{
+			"name": "MI_Sailboat02_Accessories_BaseColor",
+			"sampler": 0,
+			"source": 2
+		},
+		{
+			"name": "MI_Sailboat02_Mast_BaseColor",
+			"sampler": 0,
+			"source": 3
+		}
+	]
+}
